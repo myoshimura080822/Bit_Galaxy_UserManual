@@ -1,1 +1,1 @@
-# bit_galaxy_manual
+# Bit Galaxy UserManual
