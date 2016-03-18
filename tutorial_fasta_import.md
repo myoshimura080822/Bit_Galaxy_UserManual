@@ -3,7 +3,7 @@
 ## ローカルから直接fastaファイルをインポートして使用する
 ※特定のhistoryで一時的に使用したい場合に適しています
 
-1. fastaファイルをダウンロードします。
+1. [Ensembl](http://asia.ensembl.org/info/data/ftp/index.html)などから、ゲノム配列のfastaファイルをダウンロードします。
 1. Galaxyの左パネルの「Get Data」をクリックして、開いたリストの一番上にある「Upload File」をクリックします。
 1. ダイアログが開くので、「Choose local file」をクリックしてfastaファイルを選択します。
 1. 「Type (set all)」をクリックして、「fasta」を選択します。
